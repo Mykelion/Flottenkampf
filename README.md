@@ -1,2 +1,0 @@
-# Flottenkampf
-C++Uebung
